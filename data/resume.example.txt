@@ -1,0 +1,48 @@
+ADITYA KUMAR TIWARI
+Full Stack Developer (Node.js / JavaScript)
+Location: Indore, India. Open to Bangalore, other Indian cities, and remote.
+Experience: 2+ years (July 2024 to present)
+
+PROFESSIONAL SUMMARY
+Full-stack developer with 2+ years building and scaling backend systems for a multi-tenant restaurant platform live across Finland and the Nordics. Experienced in designing REST APIs, optimizing database performance, and integrating third-party services such as Google Actions Center and Firebase. Takes ownership of features end to end and delivers production-ready systems under real client deadlines.
+
+TECHNICAL SKILLS
+Backend: Node.js, Express.js, PHP, REST API design, MVC architecture, OOP
+Frontend and Mobile: JavaScript (ES6+), HTML5, CSS3, Framework7, Apache Cordova
+Databases and Cloud: MySQL, SQLite, Docker, Firebase Cloud Messaging (FCM)
+Integrations: Google Actions Center API (Reserve with Google), WooCommerce, Razorpay, Delhivery One
+Tools: Git/GitHub, Postman, Agile/Scrum, SDLC, Selenium, Robot Framework
+AI-assisted development: daily use of Claude for coding and debugging
+Not yet experienced in: React (learning), TypeScript, AWS/Azure, Kubernetes, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Assistant Programmer (Full Stack Developer), Caresoft India
+Client: Finnapps Oy / Foozu, Finland. July 2024 to present.
+- Built and maintained backend systems for a multi-tenant restaurant platform (order management, tax validation, table booking) using Node.js and MySQL, with some PHP.
+- Led the Google Actions Center integration, building the sync engine that pushed 67,000+ live availability slots to Google Search and Maps across 31 merchants.
+- Implemented JWT-based OAuth2 service-account authentication for server-to-server calls to Google, and fixed a double-booking race condition using database transactions with row-level locking.
+- Reduced database load on a high-traffic page by 75% by combining 4 separate queries into one endpoint.
+- Designed REST APIs for the full order lifecycle: placement, delivery assignment, real-time status, and customer notifications.
+- Built a Firebase Cloud Messaging pipeline for real-time push notifications on Android and iOS.
+- Rolled out a 4-language UI (Finnish, Russian, Estonian, Swedish) across customer and merchant apps.
+- Replaced hardcoded VAT tax slabs with a database-driven tax code system and admin UI.
+- Worked directly with client stakeholders, QA, and product teams in Finland; used Git and Docker for consistent environments.
+- Wrote manual and automated tests (Selenium, Robot Framework) to catch regressions before release.
+
+PROJECTS
+Life Skills Umang, NGO field-teacher reporting app (solo, 2026)
+- Built an offline-capable Android app for NGO field teachers to log and report sessions, from requirements to Play Store deployment (PHP, Node.js, MySQL, SQLite, Framework7, Cordova).
+- Built secure MPIN login and fixed a bug where old login tokens stayed valid after a password change.
+
+Cosmetics e-commerce store (freelance, 2025)
+- Built a WordPress/WooCommerce storefront with Razorpay payments and Delhivery One shipping.
+
+Job Alert Agent (personal, 2026)
+- Node.js agent that fetches jobs from Greenhouse, Lever, and Ashby APIs, scores each against my resume with an LLM (Ollama or Claude), and emails ranked matches.
+
+EDUCATION
+Master of Computer Applications (MCA), SCSIT, DAVV, Indore, 2022 to 2024 (66.7%)
+B.Sc. Information Technology, Shri Vaishnav Institute of Management, Indore, 2019 to 2022 (80.36%)
+
+TARGET ROLES
+Backend Developer (Node.js), Full Stack Developer, Software Engineer / SDE 1, roles asking for 1 to 3 years of experience.

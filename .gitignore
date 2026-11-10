@@ -1,0 +1,5 @@
+node_modules/
+.env
+data/resume.txt
+CLAUDE.local.md
+data/run.log
